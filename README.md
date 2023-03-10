@@ -1,7 +1,7 @@
 
 <h1 align="center">Hallo<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahfuza Ebnat Disha</h1>
 
-<h3 align="center"><u><i>"Future Machine Learning Engineer"</i></u></h3>
+<h3 align="center"><u><i>"Future Engineer"</i></u></h3>
 </br>
 
 
