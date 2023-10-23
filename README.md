@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mahfuzaebnat001@gmail.com**
 
-![Profile views](https://gpvc.arturio.dev/mahfuzaebnatdisha)
 
 
 
