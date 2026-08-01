@@ -8,7 +8,7 @@ I extract data, automate workflows, and build backend systems that save business
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mahfuzaebnatdisha/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" width="32" height="32"/></a>
- <a href="https://x.com/mahfuzaebnat" target="_blank"><img src="https://img.icons8.com/color/48/x.png" alt="x" width="32" height="32"/></a>
+ <a href="https://x.com/mahfuzaebnat09" target="_blank"><img src="https://img.icons8.com/color/48/x.png" alt="x" width="32" height="32"/></a>
  <a href="https://github.com/mahfuzaebnatdisha" target="_blank"><img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png?w=640" alt="github" width="32" height="32"/></a>
  <a href="https://fiverr.com/mahfuzaebnat09" target="_blank"><img src="https://img.icons8.com/color/48/fiverr.png" alt="fiverr" width="32" height="32"/></a>
  <a href="mailto:mahfuzaebnatogt@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" width="32" height="32"/></a>
