@@ -1,30 +1,127 @@
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahfuza Ebnat Disha</h2>
 
-<h2 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahfuza Ebnat Disha</h2>
-
-<h3 align="center"><u><i>"Software Engineer"</i></u></h3>
-</br>
-
-
-
-
-- 🌱 I’m currently learning **Software Development**
-
-- 📫 How to reach me **mahfuzaebnatogt@gmail.com**
-
-
-
-
-## <p align="center"><b>Connect with me:</b></p>
+<h3 align="center">Python developer · web scraping, AI automation & FastAPI backend specialist</h3>
 
 <p align="center">
- <a href = "https://www.linkedin.com/in/mahfuza-ebnat-disha-0783ab237/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"alt="linkedin" width="40" height="40"/></a>   <a href = "https://twitter.com/mahfuzaebnat"target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"alt="twitter" width="40" height="40"/></a>   <a href="https://www.kaggle.com/mahfuzaebnatdisha" rel="noreferrer"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/72/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="kaggle" width="40" height="40"/></a>     <a href="https://github.com/mahfuzaebnatdisha" target="_blank" rel="noreferrer"><img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png?w=640" alt="github" width="40" height="40"/></a>  </p>
+I extract data, automate workflows, and build backend systems that save businesses time.
+</p>
 
- </br> </br>
+<p align="center">
+ <a href="https://www.linkedin.com/in/mahfuzaebnatdisha/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" width="32" height="32"/></a>
+ <a href="https://x.com/mahfuzaebnat" target="_blank"><img src="https://img.icons8.com/color/48/x.png" alt="x" width="32" height="32"/></a>
+ <a href="https://github.com/mahfuzaebnatdisha" target="_blank"><img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png?w=640" alt="github" width="32" height="32"/></a>
+ <a href="https://fiverr.com/mahfuzaebnat09" target="_blank"><img src="https://img.icons8.com/color/48/fiverr.png" alt="fiverr" width="32" height="32"/></a>
+ <a href="mailto:mahfuzaebnatogt@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" width="32" height="32"/></a>
+</p>
+
+<br>
+
+### 🔭 What I'm doing
+
+- Building **EbuIntel** — an AI-powered Sales Intelligence Platform (founder project at EbuSoft)
+- Learning Selenium, Playwright, n8n, and FastAPI in depth
+- Available for freelance work — web scraping, automation, backend APIs
+
+<br>
+
+## 💼 Featured project
+
+<table>
+<tr>
+<td width="65%">
+
+**📦 Book store web scraper**
+
+Python scraper that extracts book data (title, price, availability, rating) 
+across an entire e-commerce style catalog — with fully automatic pagination 
+and error handling, no hardcoded page counts.
+
+`Python` `BeautifulSoup` `Requests` `Pandas`
+
+[View repo →](https://github.com/mahfuzaebnatdisha/web-scraping-Books-project-1)
+
+</td>
+<td width="35%" align="center">
+
+**1000**
+books scraped
+
+**50**
+pages crawled
+
+**0**
+errors
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Data extraction**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18"/> Python
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="18" height="18"/> Selenium
+<br>
+🔗 BeautifulSoup
+<br>
+🎭 Playwright
+
+</td>
+<td valign="top" width="33%">
+
+**Automation**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18" height="18"/> n8n
+<br>
+🤖 OpenAI API
+<br>
+⚡ Workflow Automation
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="18" height="18"/> FastAPI
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="18" height="18"/> PostgreSQL
+<br>
+🔌 REST API
+
+</td>
+</tr>
+</table>
+<br>
+<br>
 
 
+## 🤝 Let's work together
 
-## <p align="center"><b>Languages and Tools:</b></p>
+<table>
+<tr>
+<td>
 
-<p align="center">  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
- </br>
+I help freelancers, agencies, and small businesses turn messy web data into 
+clean, structured results — and automate the busywork around it.
+
+**What I can help with:**
+- 🔎 Web scraping & data extraction (any website, any format)
+- ⚙️ AI-powered automation workflows (n8n + OpenAI)
+- 🔧 Backend APIs built with FastAPI
+
+<br>
+
+<a href="https://fiverr.com/mahfuzaebnat09"><img src="https://img.shields.io/badge/Hire%20me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1a1a1a" height="45"/></a>
+<a href="mailto:mahfuzaebnatogt@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
+
+</td>
+</tr>
+</table>
